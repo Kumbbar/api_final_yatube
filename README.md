@@ -52,7 +52,7 @@ GET /api/v1/posts/?offset=1&limit=1
   "previous": null,
   "results": [
     {
-      "id": 0,
+      "id": 1,
       "author": "username",
       "text": "Текст публикации",
       "pub_date": "2021-10-14T20:41:29.648Z",
